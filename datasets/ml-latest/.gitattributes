@@ -1,3 +1,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 genome-scores.csv filter=lfs diff=lfs merge=lfs -text
 genome-tags.csv filter=lfs diff=lfs merge=lfs -text
+datasets/ml-latest/genome-scores.csv filter=lfs diff=lfs merge=lfs -text
